@@ -1,4 +1,4 @@
-# weather app
+# Weather App
 
 This is a weather application that allows us to check the current weather conditions for a given location.The app is built using HTML, CSS and JavaScript, and it utilizes the OpenWeatherMap API to fetch weather data.
 
