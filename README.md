@@ -1,4 +1,4 @@
-#weathe app
+#weather app
 
 This is a weather application built using HTML, CSSThis project is licensed under the MIT License.
 Feel free to modify this README file as per your app's specific requirements. You can add additional sections, such as installation instructions, code examples, or acknowledgments, if needed., and JavaScript. The app fetches real-time weather data for a user's current location or any specified city using the OpenWeatherMap API.
